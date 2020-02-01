@@ -1,0 +1,75 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+// Our variables
+$base-font-family: "Open Sans", Helvetica, Arial, sans-serif;
+$base-font-size:   18px;
+$base-font-weight: 100;
+$small-font-size:  $base-font-size * 0.75;
+$base-line-height: 1.5;
+$header-font-weight: bold;
+$header-font-family: Chivo;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$background:       white;
+$brand-color:      #7e4db7;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+table.dataframe {
+  background: white;
+  border-color: #cbd2d6;
+  border-collapse: collapse;
+  margin-bottom: 25px;
+  font-size: 16px;
+}
+
+table.dataframe td, th {
+  border-color: #cbd2d6;
+  border-style: solid;
+  padding: 5px;
+  text-align: left;
+}
+
+// dataframe div container
+.post-content div {
+  overflow-x: scroll;
+}
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
