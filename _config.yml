@@ -9,7 +9,7 @@ email: h.bantilan@qmul.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Hi, my name is Hans.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://hansbantilan.github.io" # the base hostname & protocol for your site
+url: "http://hansbantilan.github.io" # the base hostname & protocol for your site
 github_username:  hansbantilan
 
 # Build settings
