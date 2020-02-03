@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {:.profile-pic}
-![profile-pic](https://user-images.githubusercontent.com/12599167/73590568-e5abf580-44db-11ea-86c6-6da82167c34b.jpg)
+![profile-pic](https://user-images.githubusercontent.com/12599167/73675632-b5ff1800-46aa-11ea-97e9-044c302d9ac3.jpg)
 
 I am a theoretical physicist based in London.
 
