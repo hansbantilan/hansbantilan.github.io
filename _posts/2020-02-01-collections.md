@@ -11,3 +11,6 @@ categories: interests
 
 "Basing thoughts and happiness on breathing makes them contingent on nothing other than ourselves."
 
+<br/>
+
+"When you're tired, don't trust your appetite."
