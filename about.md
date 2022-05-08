@@ -7,7 +7,7 @@ permalink: /about/
 {:.profile-pic}
 ![profile-pic](https://user-images.githubusercontent.com/12599167/73675632-b5ff1800-46aa-11ea-97e9-044c302d9ac3.jpg)
 
-I am a data scientist based in London.
+I am a senior data scientist based in London.
 
 I went to Princeton University for my [doctoral work](https://catalog.princeton.edu/catalog/7660186) on black hole simulations, and to Carleton College for my undergraduate education in [Mathematics](https://www.carleton.edu/math/major/comps/past-comps/2006-07/) and [Physics](https://www.carleton.edu/physics-astronomy/overview/photo-albums/poster-sessions/2005-posters/).
 I moved to the UK as a Stephen Hawking Advanced fellow at Cambridge University, and I now conduct cutting-edge research in data science and AI while contributing to the burgeoning data science culture at EF Education First.
